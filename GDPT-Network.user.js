@@ -3,7 +3,7 @@
 // @namespace    https://github.com/bai-yumo/GDPT-Network/
 // @updateURL       https://cdn.jsdelivr.net/gh/bai-yumo/GDPT-Network@master/GDPT-Network.user.js
 // @downloadURL     https://cdn.jsdelivr.net/gh/bai-yumo/GDPT-Network@master/GDPT-Network.user.js
-// @version      0.7
+// @version      1.0
 // @description  gzy校园网自动登录
 // @author       bai_yumo
 // @match        http://10.110.141.3/*
